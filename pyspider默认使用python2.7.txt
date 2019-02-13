@@ -1,0 +1,1 @@
+pyspider 默认是用的python2.7，我们用pip3 install pyspider安装就可以, 不能直接pip安装
