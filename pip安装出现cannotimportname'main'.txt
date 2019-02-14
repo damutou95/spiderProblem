@@ -1,0 +1,3 @@
+当用pip安装python库时出现ImportError: cannot import name 'main',多半是python已经自带这个库，直接import试试
+
+
